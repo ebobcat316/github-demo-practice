@@ -5,3 +5,5 @@ green
 blue
 purple
 violet
+pink
+pucha
